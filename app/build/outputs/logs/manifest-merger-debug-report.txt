@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8c76ecf870957dd3f973752fdd7b8cac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mirza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/99585584ee939486998d2c050c1a674b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/89a9b0e6f5e8395b49df3586ca47655e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/72400ecaf2535fab51cb55e264e3deb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4efa823c41b4fe8cc623f5f87636e727/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/01011ba846c6f401c5fb6c0fd7e15fe4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ec993b23d2f5759fa217f33febdc11f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/67e125a5a918b45e0139637f4212506d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f69d55da41dcd0163f6238de7fe140d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/baf96481fc899d80261b16c46178efc3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0fdf5188e65c389fe7517b413108e4a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9d0d8dddd18f2c49f7d6a2e2696b1bf3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/448c0d76d0fbd3da6618836510a642d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f726667c5106351029ee9c4588ba9fe8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/123c89d599764cab5b8f53266d56af41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/32b5962965cccdc757e19e469f97164c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59dd89a259b9a06008857d4adb247f30/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d0cffc3757a39436ff980c5a5ce4f976/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fd4ee7fb9f70d55c47ad6d3c6aa81b8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/82847896e7251f54b05db59824189af1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/baf94a36af4bf3c9a578ce91caa1f8d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a1c2a47bfd3f4c28f31a4a623f848543/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/52f2ae67bfe19e01d2f856349b04f6df/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/64a06f371a3cd0c4d3601638101cde53/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3eecf7df0c9bb254b21b1ebd437a7c99/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f84a9f37b69bb6713b93bad55a88c2e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/80e6a76336b279b57bda8d6703b56ec1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mirza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/99585584ee939486998d2c050c1a674b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mirza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/99585584ee939486998d2c050c1a674b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/32b5962965cccdc757e19e469f97164c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/32b5962965cccdc757e19e469f97164c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59dd89a259b9a06008857d4adb247f30/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59dd89a259b9a06008857d4adb247f30/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/32b5962965cccdc757e19e469f97164c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.mirzaadil.safeboda.MainActivity
+ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8c76ecf870957dd3f973752fdd7b8cac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8c76ecf870957dd3f973752fdd7b8cac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mirza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/99585584ee939486998d2c050c1a674b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mirza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/99585584ee939486998d2c050c1a674b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/89a9b0e6f5e8395b49df3586ca47655e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/89a9b0e6f5e8395b49df3586ca47655e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/72400ecaf2535fab51cb55e264e3deb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/72400ecaf2535fab51cb55e264e3deb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4efa823c41b4fe8cc623f5f87636e727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4efa823c41b4fe8cc623f5f87636e727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/01011ba846c6f401c5fb6c0fd7e15fe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/01011ba846c6f401c5fb6c0fd7e15fe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ec993b23d2f5759fa217f33febdc11f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ec993b23d2f5759fa217f33febdc11f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/67e125a5a918b45e0139637f4212506d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/67e125a5a918b45e0139637f4212506d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f69d55da41dcd0163f6238de7fe140d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f69d55da41dcd0163f6238de7fe140d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/baf96481fc899d80261b16c46178efc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/baf96481fc899d80261b16c46178efc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0fdf5188e65c389fe7517b413108e4a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0fdf5188e65c389fe7517b413108e4a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9d0d8dddd18f2c49f7d6a2e2696b1bf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9d0d8dddd18f2c49f7d6a2e2696b1bf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/448c0d76d0fbd3da6618836510a642d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/448c0d76d0fbd3da6618836510a642d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f726667c5106351029ee9c4588ba9fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f726667c5106351029ee9c4588ba9fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/123c89d599764cab5b8f53266d56af41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/123c89d599764cab5b8f53266d56af41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/32b5962965cccdc757e19e469f97164c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/32b5962965cccdc757e19e469f97164c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59dd89a259b9a06008857d4adb247f30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59dd89a259b9a06008857d4adb247f30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d0cffc3757a39436ff980c5a5ce4f976/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d0cffc3757a39436ff980c5a5ce4f976/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fd4ee7fb9f70d55c47ad6d3c6aa81b8a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fd4ee7fb9f70d55c47ad6d3c6aa81b8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/82847896e7251f54b05db59824189af1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/82847896e7251f54b05db59824189af1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/baf94a36af4bf3c9a578ce91caa1f8d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/baf94a36af4bf3c9a578ce91caa1f8d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a1c2a47bfd3f4c28f31a4a623f848543/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a1c2a47bfd3f4c28f31a4a623f848543/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/52f2ae67bfe19e01d2f856349b04f6df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/52f2ae67bfe19e01d2f856349b04f6df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/64a06f371a3cd0c4d3601638101cde53/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/64a06f371a3cd0c4d3601638101cde53/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3eecf7df0c9bb254b21b1ebd437a7c99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3eecf7df0c9bb254b21b1ebd437a7c99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f84a9f37b69bb6713b93bad55a88c2e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mirza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f84a9f37b69bb6713b93bad55a88c2e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/80e6a76336b279b57bda8d6703b56ec1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mirza/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/80e6a76336b279b57bda8d6703b56ec1/AndroidManifest.xml:20:5-44
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/WorkSpace/AndroidStudio_workSpace/Safe Boda/app/src/main/AndroidManifest.xml
